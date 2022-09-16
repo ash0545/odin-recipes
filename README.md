@@ -1,2 +1,4 @@
 # odin-recipes
-First webpage!
+First website!
+
+Create a basic recipe website using HTML
